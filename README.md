@@ -40,10 +40,10 @@ NOTE:Those two URLs must start with https, otherwise you will get an error messa
 
 #### The required Fileds are in .env file
 ```bash
-SHOPIFY_API_KEY=<-- your shopify api key -->
-SHOPIFY_API_SECRET=<-- your shopify secret -->
+SHOPIFY_API_KEY={your shopify api key}
+SHOPIFY_API_SECRET={your shopify secret}
 ```
 
-##### More information
+#### More information
 
 [You can review for a better understanding](https://github.com/osiset/laravel-shopify/wiki).
