@@ -46,4 +46,4 @@ SHOPIFY_API_SECRET=<-- your shopify secret -->
 
 ##### More information
 
-You can review [[https://github.com/osiset/laravel-shopify/wiki]] for a better understanding.
+[You can review for a better understanding](https://github.com/osiset/laravel-shopify/wiki).
