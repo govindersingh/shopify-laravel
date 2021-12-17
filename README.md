@@ -36,3 +36,14 @@ The `callback URL` will point to the home route, while the `redirect_uri` will p
 
 NOTE:Those two URLs must start with https, otherwise you will get an error message:
 "Oauth error invalid_request: The redirect_uri is not whitelisted"
+
+
+#### The required Fileds are in .env file
+```bash
+SHOPIFY_API_KEY=<-- your shopify api key -->
+SHOPIFY_API_SECRET=<-- your shopify secret -->
+```
+
+##### More information
+
+You can review [[https://github.com/osiset/laravel-shopify/wiki]] for a better understanding.
